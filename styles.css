@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.container-fluid{
+    padding: 10% 7%;
+}
+
+.text{
+    color:#fff;
+    text-align: left;
+    padding: 7% 7%;
+    background-color: hsl(244, 38%, 16%);
+  
+}
+
+.image{
+   
+    padding: 0;
+
+}
+img{
+    width: 100%;
+}
+h1 h2{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Lexend Deca';
+    font-weight: 700;
+
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    padding: 5% 0 10% 0;
+    font-size: 15px;
+    font-family: 'Inter';
+
+}
+span{
+    color: hsl(277, 64%, 61%);
+}
+.col-lg-4{
+    font-family: 'Lexend Deca';
+    
+}
+
+#stat p{
+    font-size: 10px;
+}
